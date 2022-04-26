@@ -60,7 +60,7 @@
 
 ## 4. 형상 관리
 
-### [`Notion`](https://www.notion.so/5934c5579cec4460818bad76641363d0?v=700fdcd203754c4088ba9a5bd50e91aa)
+### [`Notion`](https://bronzed-gateway-8e0.notion.site/349dbe5bc8b240b984abfa141192042c)
 
 ![노션1](Outputs/README.assets/노션1.png)
 
@@ -68,7 +68,7 @@
 
 
 
-### [`Jira`](https://www.notion.so/JIRA-1d2c1288517c45719a3fc98346f8d153)
+### [`Jira`](https://bronzed-gateway-8e0.notion.site/JIRA-1d2c1288517c45719a3fc98346f8d153)
 
 ![지라1](Outputs/README.assets/지라1.png)
 
